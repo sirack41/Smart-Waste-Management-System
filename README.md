@@ -111,3 +111,5 @@ smart-waste-management/
 └── README.md
 📜 License
 This project is open-source and available under the MIT License.
+
+**Website live :** https://sirack41.github.io/smart-waste-management-live/
